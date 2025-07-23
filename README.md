@@ -34,6 +34,8 @@ In this repository, demonstration of how delete a node that has already been set
   
 **Limitations of Linked Lists**
   `Extra Memory :` Each node requires additional memory for the pointer
+  
   `No Random Access :` Cannot directly access elements by index
+
   `Cache Performance :` Poor locality of reference compared to arrays
   
